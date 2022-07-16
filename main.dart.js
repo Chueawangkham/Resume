@@ -59011,7 +59011,7 @@ $0(){},
 $S:0}
 A.I1.prototype={
 H(a,b){var s=null,r=t.p
-return A.dB(A.a([A.uz(s),A.oJ(new A.cU(B.AJ,A.cC("Skills",s,s,A.aw(b).R8.x,s,s),s),s,s),A.dB(A.a([new A.ri("Learning & Development",s),A.f8(A.a([new A.fA("Flutter",s),A.bW(s,s,10),new A.fA("Dart",s),A.bW(s,s,10),new A.fA("Firebase",s)],r),B.E,B.B,B.a_),new A.ri("Experienced",s),A.f8(A.a([new A.fA("JavaScript",s),A.bW(s,s,10),new A.fA("Python",s),A.bW(s,s,10),new A.fA("C++",s)],r),B.E,B.B,B.a_),new A.ri("Familiar",s),A.f8(A.a([new A.fA("RESTful API",s),A.bW(s,s,10),new A.fA("SQL",s),A.bW(s,s,10),new A.fA("NoSQL",s)],r),B.E,B.B,B.a_),A.bW(s,20,s)],r),B.E,B.B)],r),B.aj,B.B)}}
+return A.dB(A.a([A.uz(s),A.oJ(new A.cU(B.AJ,A.cC("Skillss",s,s,A.aw(b).R8.x,s,s),s),s,s),A.dB(A.a([new A.ri("Learning & Development",s),A.f8(A.a([new A.fA("Flutter",s),A.bW(s,s,10),new A.fA("Dart",s),A.bW(s,s,10),new A.fA("Firebase",s)],r),B.E,B.B,B.a_),new A.ri("Experienced",s),A.f8(A.a([new A.fA("JavaScript",s),A.bW(s,s,10),new A.fA("Python",s),A.bW(s,s,10),new A.fA("C++",s)],r),B.E,B.B,B.a_),new A.ri("Familiar",s),A.f8(A.a([new A.fA("RESTful API",s),A.bW(s,s,10),new A.fA("SQL",s),A.bW(s,s,10),new A.fA("NoSQL",s)],r),B.E,B.B,B.a_),A.bW(s,20,s)],r),B.E,B.B)],r),B.aj,B.B)}}
 A.ri.prototype={
 H(a,b){var s=null,r=t.p
 return new A.cU(B.eC,A.dB(A.a([new A.cU(B.lH,A.f8(A.a([A.cC(this.c,s,s,A.dl(s,s,B.k,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],r),B.E,B.B,B.a_),s)],r),B.aj,B.B),s)}}
